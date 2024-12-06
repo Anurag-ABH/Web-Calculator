@@ -25,3 +25,32 @@ body {
     backdrop-filter: blur(5px);
     -webkit-backdrop-filter: blur(5px);
 }
+
+input {
+    background-color: transparent;
+    height: 60px;
+    border: none;
+    text-align: right;
+    border-bottom: 1px solid #ffffff;
+    color: #ffffff;
+    font-size: 20px;
+}
+
+input::placeholder {
+    color: #fff;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    border: 1px solid #ffffff36;
+    border-radius: 50%;
+    background-color: #514e4e38;
+    color: #f1f0f0af;
+    font-size: 15px;
+}
+.row1 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
