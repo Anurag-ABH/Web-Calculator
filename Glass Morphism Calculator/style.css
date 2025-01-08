@@ -48,9 +48,9 @@ button {
     border-radius: 50%;
     font-size: 20px;
     border: 1px solid #ffffff5d;
-    color: #dabbbbbb;
-    background: linear-gradient(45deg, #ffffff, #000269);
+    color: #ffffffbb;
+    background: linear-gradient(45deg, #3a3a3a89, #000000a4);
     backdrop-filter: blur(4px);
-    box-shadow: 0 8px 32px 0 rgba(218, 213, 213, 0.148);
+    box-shadow: 0 8px 32px 0 rgba(49, 49, 49, 0.148);
     margin: 5px;
 }
